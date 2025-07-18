@@ -75,6 +75,13 @@ Principais visualizações disponíveis:
 
 Este painel é uma excelente ferramenta para análises estratégicas e para acompanhar a performance de vendas, otimizando decisões comerciais e operacionais ao longo do tempo.
 
+<img width="1442" height="786" alt="DashCrimes" src="https://github.com/user-attachments/assets/3fe84f07-1894-40d7-ba3c-e3dfd882f671" />
+
+### <p align="">O dashboard ProjetoDashCrimes - VF é um painel sobre o Fórum de segurança pública. Esse foi um painel realizado em equipe com o objetivo de fazer uma análise minuciosa trazendo informações importantes sobre os crimes de acordo com períodos e regiões diferentes.</p>
+
+<img width="1448" height="812" alt="DashLanchonete" src="https://github.com/user-attachments/assets/f32c2baf-0ec1-4e78-998d-3690da79a751" />
+
+### <p align="">O dashboard DashLanchonete - VF é um dash sobre Lanchonete. O objetivo que no foi passado com essa atividade era replicar o Dashboard do professor somente com a base e visualizar o trabalho final.</p>
 
 
 
@@ -88,12 +95,6 @@ Este painel é uma excelente ferramenta para análises estratégicas e para acom
 
 ### <p align="">O dashboard DashLanchonete - VF é um dash sobre Lanchonete. O objetivo que no foi passado com essa atividade era replicar o Dashboard do professor somente com a base e visualizar o trabalho final.</p>
 
-### <p align="">O dashboard DashBoletimEscolar - VF é um traço sobre uma unidade escolar. O objetivo que no passado era criar um dashboard de boletim escolar informando a situação de aprovação dos alunos de acordo com os materiais.</p>
-
-### <p align="">O dashboard DashTitanic - VF é um dash sobre o Naufrágio do Titanic. O objetivo que no passado era criar um dashboard com informações quais eram os tipos de pessoas com maior probabilidade de sobreviver.</p>
-
 ### <p align="">O dashboard DashLojaDepartamento - VF é um dash sobre uma Loja de departamento. O objetivo que no passado era realizar uma análise de vendas.</p>
-
-### <p align="">O dashboard ProjetoDashCrimes - VF é um painel sobre o Fórum de segurança pública. Esse foi um painel realizado em equipe com o objetivo de fazer uma análise minuciosa trazendo informações importantes sobre os crimes de acordo com períodos e regiões diferentes.</p>
 
 ### <p align="">O dashboard DashSoftware - VF é um dash sobre uma Empresa de Software. O objetivo que no passado foi criar um dashboard com informações relevantes para uma análise das APIs utilizadas pela empresa.</p>
