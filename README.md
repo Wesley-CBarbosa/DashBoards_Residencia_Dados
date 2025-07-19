@@ -1,4 +1,4 @@
-<h1 align="center">DashBoards_Residência</h1>
+<h1 align="center">Dashboards da Residência</h1>
 
 <h2 align="center">Esses foram os dashboards que realizei durante o meu período como estudante da Residência Dados, um projeto colaborativo entre o Serratec e o Senac. Todos os dashboards foram feitos com o PowerBI.</h2>
 
