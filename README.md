@@ -4,7 +4,7 @@
 
 <img width="1451" height="812" alt="DashSpotify" src="https://github.com/user-attachments/assets/99f63015-8050-4d08-a27e-630ace0693d7" />
 
-### <p align="">O 📊 Dashboard Spotify - Análise Temporal
+### <p align="">📊 O Dashboard Spotify - Análise Temporal
 Este dashboard interativo foi desenvolvido com o objetivo de analisar tendências musicais ao longo das décadas, utilizando dados da API do Spotify. A análise temporal permite observar a evolução de características musicais como valência, dançabilidade                    e energia, comparando hits e flops entre os anos de 1960 e 2010.
 
 Entre os destaques visuais estão:
@@ -20,7 +20,7 @@ Essa visualização oferece insights valiosos sobre como o gosto musical e os at
 
 <img width="1444" height="810" alt="DashTitanic" src="https://github.com/user-attachments/assets/6874bd7e-f6b9-4b7a-a397-2f842a0da6df" />
 
-### <p align="">O 🚢 Dashboard Titanic - Análise de Sobrevivência
+### <p align="">🚢 O Dashboard Titanic - Análise de Sobrevivência
 Este dashboard foi construído com o intuito de explorar os dados do famoso naufrágio do Titanic, permitindo uma análise interativa e visual das variáveis que influenciaram na sobrevivência dos passageiros. Através da segmentação por classe socioeconômica e gênero, é possível entender padrões e desigualdades que marcaram esse trágico evento histórico.
 
 Dentre os principais insights disponíveis:
@@ -39,7 +39,7 @@ O dashboard permite uma análise clara e acessível dos fatores que mais impacta
 
 <img width="1443" height="811" alt="DashBoletim" src="https://github.com/user-attachments/assets/9640d41f-a364-47db-ae08-798d577d256c" />
 
-### <p align="">O 🎓 Dashboard Boletim Escolar - Análise de Desempenho Acadêmico (2025)
+### <p align="">🎓 O Dashboard Boletim Escolar - Análise de Desempenho Acadêmico (2025)
 Este dashboard foi desenvolvido para visualizar e analisar o desempenho escolar de estudantes em diferentes disciplinas no ano de 2025. De forma clara e interativa, ele apresenta as médias por matéria, situação de aprovação, e comparações entre desempenho e quantidade de reprovações.
 
 Principais informações visualizadas:
@@ -58,7 +58,7 @@ Esse painel facilita o acompanhamento do rendimento acadêmico, servindo como fe
 
 <img width="1440" height="809" alt="DashDepartamento2" src="https://github.com/user-attachments/assets/b3879475-ac49-4618-b3bb-b0829099e5b0" />
 
-### <p align="">O 🛍️ Dashboard de Vendas, Custo, Margem de Lucro e KPI - Loja de Departamentos
+### <p align="">🛍️ O Dashboard de Vendas, Custo, Margem de Lucro e KPI - Loja de Departamentos
 Este dashboard foi construído com o objetivo de monitorar os principais indicadores de desempenho de uma loja de departamentos, proporcionando uma visão ampla sobre vendas, lucro, custos de envio e KPIs operacionais.
 
 Principais visualizações disponíveis:
@@ -77,12 +77,45 @@ Este painel é uma excelente ferramenta para análises estratégicas e para acom
 
 <img width="1442" height="786" alt="DashCrimes" src="https://github.com/user-attachments/assets/3fe84f07-1894-40d7-ba3c-e3dfd882f671" />
 
-### <p align="">O dashboard ProjetoDashCrimes - VF é um painel sobre o Fórum de segurança pública. Esse foi um painel realizado em equipe com o objetivo de fazer uma análise minuciosa trazendo informações importantes sobre os crimes de acordo com períodos e regiões diferentes.</p>
+### <p align="">🔒 O Dashboard de Indicadores de Segurança Pública no Brasil (2016 - 2021)
+
+Este painel foi desenvolvido com base nos dados do Anuário Brasileiro de Segurança Pública, abrangendo o período de 2016 a 2021, com o objetivo de fornecer uma visão ampla sobre a criminalidade no país e auxiliar na análise regional e temporal dos principais crimes registrados.
+
+Principais visualizações disponíveis:
+
+ - Indicadores principais com a soma total de crimes (3 milhões), média por região (594 mil) e variação de crimes por ano (5,82%);
+
+ - Gráfico de rosca que mostra a variação percentual dos crimes por ano, facilitando a identificação de aumentos ou quedas de ocorrências ao longo do tempo;
+
+ - Gráfico de pizza com a porcentagem de crimes por tipo, evidenciando a predominância de mortes de policiais civis em confronto (58,6%);
+
+ - Mapa georreferenciado com a distribuição espacial dos crimes por coordenada, permitindo a análise regionalizada da violência;
+
+ - Gráfico de barras com a média de crimes por região, destacando crimes como roubo e furto de veículos entre os mais comuns;
+
+ - Gráfico de colunas com a evolução anual da quantidade de crimes, com pico em 2018, indicando possíveis mudanças políticas ou sociais que influenciaram os números.
+
+Este dashboard é uma poderosa ferramenta de apoio para órgãos públicos, pesquisadores e profissionais da área de segurança, contribuindo para o entendimento dos padrões de criminalidade e o direcionamento de políticas públicas mais eficazes.
 
 <img width="1448" height="812" alt="DashLanchonete" src="https://github.com/user-attachments/assets/f32c2baf-0ec1-4e78-998d-3690da79a751" />
 
-### <p align="">O dashboard DashLanchonete - VF é um dash sobre Lanchonete. O objetivo que no foi passado com essa atividade era replicar o Dashboard do professor somente com a base e visualizar o trabalho final.</p>
+### <p align="">🥪 O Dashboard de Vendas - Lanchonete
 
+Este dashboard foi desenvolvido com o objetivo de acompanhar as vendas de uma lanchonete, destacando o desempenho dos produtos ao longo dos meses e a qualidade das vendas em relação às metas estabelecidas.
+
+Principais visualizações disponíveis:
+
+ - Indicadores de desempenho geral com o total de vendas (168 mil), valor vendido acima da meta (96 mil) e a classificação da qualidade das vendas como “Alta”;
+
+ - Segmentação por produto, permitindo selecionar entre “Goiabada 123”, “Pastel de Queijo 48” e “Suco de Uva 138” para análises detalhadas;
+
+ - Gráfico de colunas exibindo o total de vendas por mês/ano, com destaque para julho e janeiro de 2023, que juntos somam mais de 100 mil em vendas;
+
+ - Gráfico horizontal com os produtos que ultrapassaram 6 mil em vendas, evidenciando o desempenho do “Suco de Uva 138” com 96 mil vendidos;
+
+ - Tabela detalhada com as vendas por ID, mês, quantidade, preço unitário e classificação da quantidade como “Alta” ou “Normal”, permitindo análises individuais.
+
+Este painel proporciona uma visão estratégica das vendas da lanchonete, facilitando decisões sobre estoque, metas de venda e desempenho de cada item no cardápio.
 
 
 ### <p align="">O DashMercearia - VF é um dash sobre uma rede de mercearias. O objetivo que no passado com essa atividade era replicar o Dashboard da professora somente com a base e visualizar o trabalho final, criando gráficos com e sem fórmulas dax.</p>
@@ -92,8 +125,6 @@ Este painel é uma excelente ferramenta para análises estratégicas e para acom
 ### <p align="">O dashboard DashCotaçãoDolar - VF é um dash feito para conseguir visualizar a cotação atual do Dólar. O objetivo que nos foi passado foi criar um travessão que conseguisse mostrar em que era a cotação do dólar de acordo com os dados determinados.</p>
 
 ### <p align="">O dashboard DashDepartamento1 - VF é um dash com a mesma base do DashDepartamento2 - VF. O objetivo que no passado era criar um dashboard de análise de mercado.</p>
-
-### <p align="">O dashboard DashLanchonete - VF é um dash sobre Lanchonete. O objetivo que no foi passado com essa atividade era replicar o Dashboard do professor somente com a base e visualizar o trabalho final.</p>
 
 ### <p align="">O dashboard DashLojaDepartamento - VF é um dash sobre uma Loja de departamento. O objetivo que no passado era realizar uma análise de vendas.</p>
 
