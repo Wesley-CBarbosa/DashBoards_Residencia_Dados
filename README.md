@@ -117,15 +117,36 @@ Principais visualizações disponíveis:
 
 Este painel proporciona uma visão estratégica das vendas da lanchonete, facilitando decisões sobre estoque, metas de venda e desempenho de cada item no cardápio.
 
+<img width="1277" height="713" alt="DashCotação" src="https://github.com/user-attachments/assets/96e249f3-08ed-4606-9f2e-03786f96d185" />
 
-### <p align="">O DashMercearia - VF é um dash sobre uma rede de mercearias. O objetivo que no passado com essa atividade era replicar o Dashboard da professora somente com a base e visualizar o trabalho final, criando gráficos com e sem fórmulas dax.</p>
+### <p align=""> O Dashboard Cotação do Dólar – Análise Temporal
+Este dashboard foi desenvolvido com o objetivo de visualizar a cotação do dólar em uma data específica, permitindo selecionar dia, mês e ano para obter rapidamente o valor correspondente.
 
-### <p align="">O dashboard DashDepartamento2 - VF é um traço sobre uma empresa de departamento. O objetivo que no passado era criar um dashboard de análise financeira da empresa.</p>
+Entre os destaques visuais estão:
 
-### <p align="">O dashboard DashCotaçãoDolar - VF é um dash feito para conseguir visualizar a cotação atual do Dólar. O objetivo que nos foi passado foi criar um travessão que conseguisse mostrar em que era a cotação do dólar de acordo com os dados determinados.</p>
+ - Controles interativos para escolha do dia, mês e ano da cotação desejada;
 
-### <p align="">O dashboard DashDepartamento1 - VF é um dash com a mesma base do DashDepartamento2 - VF. O objetivo que no passado era criar um dashboard de análise de mercado.</p>
+ - Exibição clara e destacada do valor do dólar para a data selecionada;
 
-### <p align="">O dashboard DashLojaDepartamento - VF é um dash sobre uma Loja de departamento. O objetivo que no passado era realizar uma análise de vendas.</p>
+ - Layout simples e objetivo, focado apenas em demonstrar a informação solicitada.
 
-### <p align="">O dashboard DashSoftware - VF é um dash sobre uma Empresa de Software. O objetivo que no passado foi criar um dashboard com informações relevantes para uma análise das APIs utilizadas pela empresa.</p>
+Essa visualização oferece uma forma prática e direta de consultar a cotação do dólar em um determinado dia.
+
+<img width="1277" height="716" alt="DashSoftware" src="https://github.com/user-attachments/assets/dc91394f-ed0a-446f-be12-8d22bc08445b" />
+
+### <p align=""> O Dashboard de Monitoramento de Micro Serviços – APIs
+Este dashboard interativo foi desenvolvido para monitorar a operação de uma empresa focada no desenvolvimento de APIs, oferecendo uma visão detalhada do desempenho e comportamento dos seus microsserviços.
+
+Entre os destaques visuais estão:
+
+ - Indicadores-chave de volume: total de logs, traces, spans e métricas coletadas;
+
+ - Gráfico de pizza que mostra a distribuição dos níveis de log (INFO, DEBUG, WARN e ERROR), permitindo identificar rapidamente pontos críticos;
+
+ - Ranking detalhado da quantidade de chamadas por API, destacando as mais utilizadas;
+
+ - Visualização em barras horizontais das ocorrências por tipo (trace, debug, info, warn e error);
+
+ - Linha temporal que acompanha a evolução das métricas ao longo dos dias, facilitando a detecção de padrões ou anomalias.
+
+Essa visualização é essencial para apoiar a equipe técnica na análise de desempenho, identificação de problemas e tomada de decisão baseada em dados para manter a estabilidade dos serviços.
